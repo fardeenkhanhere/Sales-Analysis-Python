@@ -25,7 +25,7 @@ Jupyter Notebook
 📁 Dataset
 The notebook reads the following CSV file:
 
-Diwali Sales Data.csv
+‪C:\Users\91828\OneDrive\Documents\Data Analysis File\Diwali Sales Data.csv
 
 The analysis uses fields including:
 
